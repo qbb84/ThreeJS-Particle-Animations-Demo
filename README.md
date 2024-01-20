@@ -4,7 +4,7 @@
 This small showcase implements various particle animations using mathematical equations. Each animation type is defined by a set of equations governing the movement of particles. Included are the mathematical expressions for each animation.
 <br>
 
-**Note:** The GIFs below illustrate the visual representation of particle animations. The mathematical formulas are provided for each animation type, where:
+**Note:** The GIFs below illustrate the visual representation of particle animations--aliases for each are pseudorandom. The mathematical formulas are provided for each animation type, where:
 - \( y' \): Updated value for the y-coordinate of a particle.
 - \( x' \): Updated value for the x-coordinate of a particle.
 - \( z' \): Updated value for the z-coordinate of a particle.
@@ -12,6 +12,8 @@ This small showcase implements various particle animations using mathematical eq
 <br>
 <details>
   <summary>How to Implement Particle Animations</summary>
+  <br>
+  <p><i>Note: Ensure you have a basic Three.js scene setup before proceeding.</i></p>
   <p>
 
   ```javascript
